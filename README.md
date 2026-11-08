@@ -10,7 +10,7 @@ To analyse applicant data, identify factors associated with internship selection
 
 The dataset contains applicant information, including:
 
--Applicant details and application domains.
+- Applicant details and application domains.
 
 -Number of skills listed.
 
