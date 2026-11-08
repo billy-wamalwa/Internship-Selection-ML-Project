@@ -42,7 +42,9 @@ The Logistic Regression model achieved the following results:
 
 
 -Accuracy(84.62%)
+
 -Precision(91.67%)
+
 -Recall(91.67%)
 
 # Interpretation:
